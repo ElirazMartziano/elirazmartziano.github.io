@@ -63,6 +63,7 @@ button:hover {
   display: grid;
   grid-template-columns: repeat(3, 80px);
   grid-template-rows: 50px repeat(3, 80px) 60px;
+  justify-content: center;
   gap: 5px;
 }
 
